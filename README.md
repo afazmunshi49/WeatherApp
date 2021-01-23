@@ -4,4 +4,4 @@ This app is using Node.js for the server application and is stored in the file n
 This application is using the Open Weather API to request the weather data giving it the name of the city as a parameter.
 The user will give the name of the place as an input.
 The input is taken from the user using HTML forms.
-<img src="images/intro-page.png" width="500" height="300">
+<img src="images/intro-page.png" width="600" height="300">
