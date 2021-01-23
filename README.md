@@ -5,3 +5,5 @@ This application is using the Open Weather API to request the weather data givin
 The user will give the name of the place as an input.
 The input is taken from the user using HTML forms.
 <img src="images/intro-page.png" width="600" height="300">
+<img src="images/enter_the_city.png" width="600" height="300">
+<img src="images/result.png" width="600" height="300">
